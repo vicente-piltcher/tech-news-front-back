@@ -28,4 +28,5 @@ CACHE_VIEWS=false
 4 - CRIANDO O BANCO:
 4.1 - Instalar o MySQL Server na maquina
 4.2 - Na conexão com o MySQL, utilizar a HOST e a PORT que estão no .env (caso contrario dara erro de conexão)
-4.3 - Após logado no banco pelo MySQL, rodar o comando do servidor que o Banco de dados será construído
+4.3 - Achar a OPCAO DE CRIAR BANCO, e UTILIZAR NOME E SENHA IGUAIS A DO ARQUIVO .env
+4.4 - Após logado no banco pelo MySQL, rodar o comando do servidor que o Banco de dados será construído
